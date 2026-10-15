@@ -1,0 +1,23 @@
+# Dependencies
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Packaging output
+output/
+
+# Temp files
+*.log
+temp/
+tmp/
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

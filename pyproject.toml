@@ -1,0 +1,8 @@
+[project]
+name = "py-packy"
+version = "0.1.0"
+description = "A GUI-based Python packaging tool powered by Nuitka"
+requires-python = ">=3.12"
+dependencies = [
+    "pyside6>=6.11.0",
+]
